@@ -1,0 +1,27 @@
+{
+  "site": {
+    "name": "생명의 빛 감리교회",
+    "motto": "삶을 비추는 생명의 빛",
+    "address": "주소를 입력하세요",
+    "phone": "연락처를 입력하세요",
+    "worship": "예배 시간을 입력하세요"
+  },
+  "categories": {
+    "sermons": [
+      "주일설교",
+      "특별예배"
+    ],
+    "bulletins": [
+      "주일",
+      "수요일",
+      "철야"
+    ],
+    "albums": [
+      "교회행사"
+    ]
+  },
+  "sermons": [],
+  "bulletins": [],
+  "albums": [],
+  "events": []
+}
